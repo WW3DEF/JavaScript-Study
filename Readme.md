@@ -9,7 +9,7 @@
 
 
 ### 5. 표현식(Expression)과 문(Statement)
-[Chpater05]https://github.com/WW3DEF/JavaScript-Study/tree/main/ch05
+[Chpater05](https://github.com/WW3DEF/JavaScript-Study/tree/main/ch05)
 
 ### 6. 데이터타입(Type)
 
